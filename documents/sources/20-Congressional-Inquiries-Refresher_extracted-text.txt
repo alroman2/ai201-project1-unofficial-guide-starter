@@ -1,0 +1,476 @@
+Extracted text from: Congressional-Inquiries-Refresher.pdf
+Pages: 33
+
+===== Page 1 =====
+U.S. CITIZENSHIP AND IMMIGRATION SERVICES
+OFFICE OF LEGISLATIVE AFFAIRS
+Congressional Inquiries Refresher
+for
+Legislative Staff
+April 2021
+( 9
+U.S. Citizenship
+and Immigration
+Services
+
+===== Page 2 =====
+Purposes
+By the end of this webinar, you will:
+• Know where to send inquiries;
+• Understand the timeframes within which to expect responses from our
+liaisons;
+• Know the USCIS/OLA privacy release requirements;
+• Understand the nature of expedite processing requests and what is
+expected when such requests are reviewed;
+• Know how to effectively follow up on previously submitted
+congressional inquiries;
+• Understand which documents should be sent to support congressional
+inquiries; and
+• Know how to ensure that your inquiries receive meaningful responses.
+
+===== Page 3 =====
+When To Create An Inquiry
+Because USCIS has jurisdiction over the following immigration issues, it
+may be appropriate to contact USCIS though a congressional inquiry to
+determine the status of a pending case or policies concerning these
+issues:
+• Naturalization and certificates of citizenship
+• Permanent Resident Cards (Green Cards)
+• Family-based immigration petitions
+• Employment-based immigration petitions
+• EB-5 Immigrant Investor Program
+• Adjudication of applications for employment authorization
+• Adjustment of status to permanent resident
+• Adjudication of affirmative application for asylum (performed within
+the United States)
+
+===== Page 4 =====
+When To Create An Inquiry (Continued)
+• Adjudication of refugee status applications (performed abroad)
+• Waivers of inadmissibility for immigrant visa applications
+• Extension and change of non-immigrant status
+• Verification for employment (E-Verify Program)
+• Systematic Alien Verification for Entitlements (SAVE)
+• Temporary Protected Status (TPS)
+• Humanitarian parole
+• Intercountry adoptions
+• Detection of immigration and marriage fraud (in conjunction with
+U.S. Immigration and Customs Enforcement (ICE))
+• Deferred Action for Childhood Arrivals (DACA)
+
+===== Page 5 =====
+Identifying the Right Location
+to
+Send an Inquiry
+Knowing How to Read the Receipt Notice and Use that Information When
+Inquiring or Following Up on Cases
+• Upon acceptance of your constituent’s petition or application, USCIS will send
+the petitioner or applicant a Notice of Action, Form I-797C
+• The I-797C contains a receipt number that identifies where the petition or
+application was first received for jurisdiction purposes.
+• Each receipt number contains a unique 13-character identifier; consists of
+three letters (EAC, WAC, LIN, SRC, NBC, MSC, YSC, MCT, or IOE); and is
+followed by 10 numbers.
+
+===== Page 6 =====
+Identifying the Right Location to
+Send an Inquiry
+In response to the often-asked question: What do the first three letters in a USCIS
+Receipt number mean? Those letters mean a lot. They are like street signs in a city.
+They help to locate which office or service center your constituent’s case began its
+journey.
+• EAC – Vermont Service Center (formerly Eastern Adjudication Center or Eastern Service
+Center).
+• WAC – California Service Center (formerly Western Adjudication Center or Western Service
+Center).
+• LIN – Nebraska Service Center (formerly Lincoln Service Center).
+• SRC – Texas Service Center (formerly Southern Regional Center or Southern Service Center).
+• NBC – National Benefit Center.
+• MSC – Missouri Service Center (know National Benefits Center).
+• YSC – Potomac Service Center.
+• MCT – Prefix used to identify filing of Form I-539 Change/Extension of Non-immigrant
+Status.
+• IOE – Prefix used to identity electronic filing/immigrant visa fee.
+
+===== Page 7 =====
+Identifying the Right Location
+to
+Send an Inquiry (Continued)
+• Note for the purposes of entering an inquiry in the OLA Congressional Portal
+(https://www.uscis.gov/congress/congressional-web-portal/congressional-web-
+portal), the three letters identifying the location may be different.
+• When inquiring about a pending petition or application, it is best to reach out to
+your local USCIS field office or center congressional unit – unless it relates to a
+policy or subject matter exclusively handled by congressional liaisons at USCIS
+Headquarters.
+U.S. Citizenship
+• and Immigration
+Services
+
+===== Page 8 =====
+Identifying the Right Location
+to
+Send an Inquiry (Continued)
+Follow these OLA/Best Practices for Contacting
+• Contact Your Local USCIS Office or Service Center for:
+• Constituent Casework
+• Follow the identifying prefix on the constituent’s receipt notice (I-
+797C, Notice of Action)
+• Determine whether the constituents have received notices from USCIS
+that their cases have be relocated
+• Details on USCIS Events in Your Area
+
+===== Page 9 =====
+Identifying the Right Location
+to
+Send an Inquiry (Continued)
+Follow these OLA/Best Practices for Contacting
+• Contact HQ OLA for:
+• National Policy Questions and
+• Case Inquiries on:
+• Administrative Appeals
+• Humanitarian Parole
+• Refugee Cases
+• Systematic Alien Verification for Entitlements (SAVE)
+• Applications/ petitions pending at USCIS offices abroad
+• EB-5 (Immigrant Investor Program Office)
+
+===== Page 10 =====
+Creating and Sending an Inquiry
+Generally, USCIS Congressional Units may accept inquiries
+submitted via telephone or in writing through fax,* emails or the
+dedicated congressional inquiries portal
+(https://www.uscis.gov/congress/congressional-web-portal-web-
+portal).
+Telephonic vs. Written Inquiries – which is preferable and why?
+ Written inquiries are preferable because they reduce possible
+ambiguity. Written inquiries tend to provide:
+ essential information,
+ ease of follow up, and
+ means of recording and tracking.
+* As of the date for this presentation, the VSC cannot accept fax
+inquiries
+
+===== Page 11 =====
+Creating and Sending an Inquiry (continue)
+USCIS congressional liaisons are committed to providing meaningful and timely
+responses to Members of Congress and their staff. To do so, we follow the following
+guidelines to help ensure that we satisfy our commitment and your expectations:
+• Telephone Inquires – Are best used when dialogue requires or when emergency
+situations exists that requires immediate attention. Congressional offices can
+typically expect a response by close of business next day. However, telephone
+access may be impacted by workforce changes due to the current COVID-19
+pandemic.
+• Email Inquiries – Are great for simple status check and requests regarding USCIS
+policies and procedures. Congressional offices can typically expect an
+acknowledgement or response within five (5) business days and resolution within
+30 calendar days.
+• Written Inquiries – Are recommended when a case is complicated, and USCIS
+will need to review documents. Written inquiries should be limited in number, as
+they take longer to resolve. Congressional office should expect a response within
+30 calendar days.
+
+===== Page 12 =====
+Creating and Sending an Inquiry (Continued)
+Best Practices When Submitting Casework Inquiries in Writing
+Use of the dedicated portal - https://www.uscis.gov/congress/congressional-
+web-portal/congressional-web-portal
+What are the benefits of using the portal?
+ Allows Congressional Staff to instantly create inquiries upon submission
+ Allows Congressional Staff to use customized fields to submit appropriate
+constituent information and issues
+ Allows Congressional Staff to upload attached documents to inquiries
+ Provides Congressional Staff with tracking numbers and instructions on how
+to follow up on their inquiries
+ Eliminates the need for Congressional Staff to send duplicative or separate
+email messages
+Problems with or suggestions about the Web Portal? Please send a message to:
+USCISLETS@uscis.dhs.gov
+U.S. Citizenship
+• and Immigration
+Services
+
+===== Page 13 =====
+Creating and Sending an Inquiry (Continued)
+Copying others on inquiries submitted by email or the portal – Is it
+helpful or hinderance? Typically, copying multiple offices on an
+inquiry results in confusion and may raise questions regarding
+jurisdiction or ownership of the inquiry. And this may result in
+duplicate inquiries or the dissemination of conflicting information.
+Is there a downside to sending an email to a congressional liaison’s
+direct email address? - YES
+Initial email inquiries or follow-up messages submitted directly to a
+USCIS congressional liaison’s direct email address may be missed or
+misrouted if the address is incorrect. These email messages may also sit
+unanswered if the liaison to whom it is addressed is out of the office for
+an extended period of time.
+
+===== Page 14 =====
+Creating and Sending an Inquiry (Continued)
+Doubling Up or Doubling Down - Using the Portal and Sending
+Email Inquiries
+ The best practice when submitting case work inquiries to a USCIS
+congressional unit is to select one method (either email or the
+portal) and avoid creating multiple inquiries on the same issue
+related to the same constituent.
+ The portal is the best method for submitting an inquiry.
+ Doubling up or doubling down may result in multiple inquiries,
+delays and confusion caused when multiple liaisons reach out to
+subject matter experts or designated points of contact to research and
+provide information about a particular case or question.
+
+===== Page 15 =====
+How to Follow Up on An Inquiry
+Proper follow up by telephone - How?
+• Please refer the initial response from the USCIS congressional liaison and
+note the timeframes and essential information provided in the USCIS
+response
+• Make sure you are calling the correct office or service center
+• Make sure you are calling the congressional unit and not the general
+contact center
+• In the event you could not reach a congressional liaison, please leave a
+detailed voice message and provide your best contact information
+• Please use the OLA contact list to reach out to congressional unit
+leadership, when appropriate
+
+===== Page 16 =====
+How to Follow Up on An Inquiry (Continued)
+Proper follow up by email – How?
+• Please do not use a follow up email to open a separate, new inquiry.
+• Reply to final response only to seek clarification.
+• Please do not reply to final response to ask a different question about
+the same constituent.
+• Please do not reply to open an inquiry about a different constituent.
+
+===== Page 17 =====
+USCIS/OLA Privacy Release Requirements
+• Effective February 2018, USCIS provided Congressional Staff with revised
+guidance (https://www.uscis.gov/congress/congressional-
+casework/procedures-for-responding-to-congressional-inquiries) on the
+type of information needed within their offices’ privacy for OLA to release
+case specific information in response to congressional casework inquiries.
+• In addition to the following minimum privacy release requirements, OLA
+clarified that privacy releases submitted to OLA should not contain social
+security numbers in order to protect Personally Identifiable Information
+(PII).
+U.S. Citizenship
+• and Immigration
+Services
+
+===== Page 18 =====
+USCIS/OLA Privacy Release Requirements (Continued)
+USCIS/OLA Minimum Privacy Release Requirements
+What the Release Should Contain
+ The name, current address, date of birth, and place of birth of the individual
+whose information is being requested;
+ The name of the Member of Congress to whom the information can be released
+and the release names that congressional office as the only authorized recipient;
+ The subject matter to which the requested information relates(e.g., immigration
+benefit or form number);
+ A statement authorizing release of the information;
+
+===== Page 19 =====
+USCIS/OLA Privacy Release Requirements (Continued)
+USCIS/OLA Minimum Privacy Release Requirements
+What the Release Should Contain
+ A handwritten signature that is either notarized or made under penalty of
+perjury by the subject of the records, even if outside the United States digital
+signatures are not acceptable; and
+ A full translation of any non-English text, as well as the translator's certification
+of competence to translate from the foreign language into English. Anyone, paid
+or unpaid, can provide a translation as long as the translators certify that they
+are competent to translate from the foreign language into English.
+
+===== Page 20 =====
+USCIS/OLA Privacy Release Requirements (Continued)
+USCIS/OLA Minimum Privacy Release Requirements
+Who Should Sign the Release
+ A parent if the subject of the records is younger than 14;
+ A legal guardian if the subject has a disability; or
+ An attorney-in-fact if the subject has a power of attorney.
+
+===== Page 21 =====
+USCIS/OLA Privacy Release Requirements (Continued)
+USCIS/OLA Minimum Privacy Release Requirements
+What is the Difference Between an Electronically Reproduced Signature and
+a Computer-generated Signature
+ Computer-generated signatures – The type of signature that a bank may
+request when completing document signatures online. Hence, the person
+“signing” the document types in his/her signature and a computer-
+generated cursive version of his or her name appears on the document as a
+representation of his or her signature. This otherwise referred to as a digital
+signature. USCIS does not accept that type of signature.
+
+===== Page 22 =====
+USCIS/OLA Privacy Release Requirements (Continued)
+USCIS/OLA Minimum Privacy Release Requirements
+What is the Difference Between an Electronically Reproduced Signature and
+a Computer-generated Signature
+ Electronically reproduced original signatures – Includes autopen created
+signatures or the type of signatures that you would produce when you are at
+a place of business making a purchase and you are asked to place your finger
+on a screen or pad to sign your name and your signature appears on the
+receipt or document that you are signing (even though it may not always
+look like your normal wet/pen written signature). These are considered
+facsimile signatures (as they are not wet ink signatures, but you are actually
+using your hand to sign the document). Hand-drawn screen or pad type
+signatures are accepted by USCIS, as are autopen signatures.
+
+===== Page 23 =====
+Expedite Request
+Criteria and Expectations
+Every petition or application is important! However, requests for expedited
+service are reviewed on a case-by-case basis and may be granted at the
+discretion of the office director or higher and must demonstrate compelling
+and urgent circumstances.
+• When seeking expedited processing, the burden is on the applicant to
+demonstrate that one or more of the expedite criteria have been met.
+• Expedite processing requests must be submitted in writing and supported
+by documentary evidence.
+• The requests and supporting evidence must be submitted to the office or
+center with jurisdiction over the case.
+• There is no guarantee a request for expedited service will be approved—
+even if the request meets one or more of the following criteria.
+U.S. Citizenship
+• and Immigration
+Services
+
+===== Page 24 =====
+Expedite Request
+Criteria and Expectations
+USCIS Expedite Criteria are:
+ Severe financial loss to a company or person, provided that the need for
+urgent action is not the result of the petitioner’s or applicant’s failure to:
+1. File the benefit request or the expedite request in a reasonable
+time frame, or
+2. Respond to any requests for additional evidence in a reasonably
+timely manner;
+ Urgent humanitarian reasons;
+ Compelling U.S. government interests (such as urgent cases for the
+Department of Defense or DHS, or other public safety or national security
+interests); or
+ Clear USCIS error.
+
+===== Page 25 =====
+Expedite Request
+Criteria and Expectations (Continued)
+Recent circumstances have effectively resulted in additional
+circumstances under which USCIS will consider requests for expedited
+processing.
+While USCIS publishes some factors that may warrant a favorable exercise
+of discretion, such factors are neither exhaustive nor individually or
+collectively determinative. For these reasons, applicants and petitioners
+should provide all information and supporting documents relevant to the
+circumstances for which they are making their requests for expedited
+processing.
+Note: Offices or Centers reviewing expedite requests do not have to provide a
+reason for denying an expedite request.
+
+===== Page 26 =====
+Expedite Request
+Criteria and Expectations (Continued)
+ COVID-19 workflow changes and resulting biometric appointment delays
+are good examples of the circumstances under that USCIS may consider
+these expanded expedite request criteria.
+ To reduce the COVID-19 related backlog at the ASCs, USCIS has allowed
+applicants or petitioners to request manual scheduling of ASC biometrics
+collection appointments as long as USCIS can determine that the
+circumstances surrounding their request satisfy certain criteria.
+
+===== Page 27 =====
+Supporting Documents
+What Documents Can/Should Be Sent With An
+Inquiry
+• If your inquiry is seeking case specific information, it should be accompanied
+by a properly signed privacy release
+• If your constituent is seeking expedited processing or specific humanitarian
+relief, the request should be accompanied by evidentiary documents to
+substantiate or support the request
+• If your constituent is seeking a review or reconsideration based on agency
+error, the request should be accompanied by documents that support the
+constituent’s belief that USCIS committed an error
+• If any documents or statements provided by your constituent is written in a
+foreign language, please submit a written English-language translation of the
+document with the foreign language document
+• Please do not submit original documents
+
+===== Page 28 =====
+Ensuring Successfully Processed Inquiries
+and
+Meaningful Responses
+• Avoid duplicate inquiries or sending the same inquiries to multiple offices
+• Try to identify all pending matters and form types that the constituent has
+submitted to USCIS
+• Try to identify the constituent’s prior attempts to submit inquiries to USCIS
+• Understand that USCIS congressional liaisons may not have immediate access to
+information related to your constituent’s case and may have to conduct research
+or request file information to assist in answering the question(s) you have asked
+• Select one USCIS means of inquiry (i.e., submit your constituent’s inquiry either
+via a USCIS congressional unit or via the USCIS Contact Center, not both)
+• Provide sufficient information within the inquiry and be open to discussions
+with liaisons if additional information or documents are needed to resolve the
+inquiry
+
+===== Page 29 =====
+Ensuring Successfully Processed Inquiries
+and
+Meaningful Responses (Continued)
+• Unless necessary, please do not copy multiple offices or service centers on a
+message
+• Please ensure that your messages do not contain Social Security numbers or
+other PII
+• Please do not share or forward messages written to you or your office to
+constituents
+• Please do not share USCIS congressional unit staff email addresses or other
+contact information to anyone outside your office
+
+===== Page 30 =====
+U.S. CITIZENSHIP AND IMMIGRATION SERVICES
+OFFICE OF LEGISLATIVE AFFAIRS
+...
+Questions?
+U.S. Citizenship
+• and Immigration
+Services
+
+===== Page 31 =====
+About this Presentation
+ Author(s): USCIS Office of Legislative Affairs
+ Date of last revision: 04/29/2021
+ This presentation is current only as of the date of the last revision.
+ This presentation contains no sensitive Personally Identifiable
+Information (PII).
+ Any references in documents or text, with the exception of case law,
+relate to fictitious individuals.
+ All images in this presentation: www.uscis.gov/congress, approved
+USCIS OLA office logo
+U.S. Citizenship
+and Immigration
+Services 31
+
+===== Page 32 =====
+Disclaimer
+This training module is intended solely as informational. It is not
+intended to, does not, and may not be relied upon to create or
+confer any right(s) or benefit(s), substantive or procedural,
+enforceable at law by any individual or other party in benefit
+applications before USCIS, in removal proceedings, in litigation
+with the United States, or in any other form or manner. This
+training module does not have the force of law, or of a DHS
+directive.
+U.S. Citizenship
+and Immigration
+Services 32
+
+===== Page 33 =====
+Dissemination
+This presentation may not be reproduced or further disseminated
+without the express written consent of USCIS HQ Office of
+Legislative Affairs (HQ OLA).
+Please contact HQ OLA for additional information at
+USCISCongressionalInquiries@uscis.dhs.gov or by telephone at
+240-721-3801.
+U.S. Citizenship
+and Immigration
+Services 33
+

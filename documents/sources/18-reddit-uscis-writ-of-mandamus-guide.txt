@@ -1,0 +1,135 @@
+SOURCE: r/USCIS — Step-by-Step Guide: How I Filed a Writ of Mandamus
+URL: https://www.reddit.com/r/USCIS/comments/1ho0adh/stepbystep_guide_on_how_i_filed_a_writ_of/
+Posted by: u/Secret_Gas3270
+
+================================================================================
+
+Step-by-Step Guide on How I Filed a Writ of Mandamus Without a Lawyer and How You Can Too
+
+Notice: I am not a lawyer, and this is not legal advice. This is my personal story on how I filed a writ of mandamus.
+
+After searching the internet long and hard, I found no detailed step-by-step guide on how to do it (does not exist). So here it is, absolutely free — no $5,000 to $10,000 lawyer fee.
+
+--------------------------------------------------------------------------------
+
+What is a writ of mandamus and what it isn't
+
+For my situation, my I-485 (adjustment of status) was stuck. By stuck, I mean after having my in-person interview as an adjustment from K-1 status, I was told by the interviewer (Miami Field Office) that I passed and should get my green card in a month. Well, 2 years later and nothing. The status is just pending.
+
+After contacting congressmen and opening service requests with USCIS and getting generic responses to keep waiting, the only thing left to do was a writ of mandamus.
+
+A writ of mandamus is meant for stuck cases where the suit will pretty much tell the government they have 60 days to respond or go to court. A writ of mandamus is not an appeal and is not a guaranteed approval. It is just to speed things up when you are in a similar stuck position.
+
+Common question: How long do I have to wait to file a writ of mandamus?
+
+Answer: There is no rule for an exact time to have passed — it's if it is obviously taking WAY too long. If you just want it to be faster but it's not way over normal processing time, then it's not for you.
+
+--------------------------------------------------------------------------------
+
+Step-by-Step Guide on How to File a Writ of Mandamus by Yourself
+
+Step 1:
+Use AI (Microsoft Copilot, free and comes with Windows). Ask it to write a writ of mandamus. AI alone isn't enough, so proceed to step 2.
+
+Step 2:
+Go on Fiverr and find an immigration lawyer to review and edit your AI-drafted writ. Cost: around $150. (Do not pay thousands — it should not cost more than $150 on Fiverr for review and edits.)
+
+Step 3:
+Identify your defendants. For a standard I-485 case, the defendants are:
+- United States Citizenship and Immigration Services (USCIS)
+- Attorney General of the United States
+- Director of USCIS
+- Secretary of the Department of Homeland Security
+- United States Attorney for your federal court district
+
+NOTE: For a case stuck in consular processing, also include the consul general of the Embassy.
+NOTE: Always verify that the named individuals are still in their current positions — these change.
+
+Step 4:
+Attach evidence to the back of your writ of mandamus. Label each item as Exhibit A, Exhibit B, etc. Evidence to include:
+- Proof you contacted USCIS (screenshots of chats with Emma chatbot, service requests)
+- Proof you contacted your congressmen and senators
+- Proof you contacted the CIS Ombudsman
+- Your original receipt notice
+
+Step 5:
+Your writ of mandamus + evidence = your complaint packet. Make 6 identical copies: one for the court to keep, and one for each of the 5 defendants (plus one extra for your records).
+
+Step 6:
+Take your 6 packets to the clerk's office at the United States District Court in your district. The clerk will provide:
+- A civil cover sheet (JS 44) — fill out at home beforehand if possible (need only 1 copy)
+- A summons form (AO 440) — need 5 of these, one per defendant
+
+Filling out the summons form (AO 440):
+- Write the full name and title of each defendant exactly as in your writ of mandamus.
+- In the "To" field, address it to the respective defendant.
+- In the "Plaintiff" field, write your name and address.
+- Leave the "Date" and "Signature of Clerk" fields blank for the court to fill in.
+
+Step 7:
+How to fill out the civil cover sheet (JS 44):
+- Plaintiffs: write the person filing the suit (for I-485, the applicant).
+- County: write your home county.
+- Defendants: write "USCIS" (just the main defendant).
+- County of Residence of First Listed Defendant: write "Prince George's County" (USCIS headquarters county).
+- Attorneys part: leave blank.
+- Basis of Jurisdiction: mark an "X" under "U.S. Government Defendant."
+- Citizenship of Principal Parties: leave blank.
+- Nature of Suit: mark an "X" by 465 "Other Immigration Actions."
+- Origin: mark an "X" where it says "Original Proceeding."
+- Date and sign at the bottom.
+
+Step 8:
+After filing, serve the defendants.
+- Attach one stamped summons to each packet.
+- Write your case number on each packet.
+- Mail each packet using certified mail or overnight delivery.
+- Also email the writ of mandamus and related documents to: uscis.serviceofprocess@uscis.dhs.gov
+  (Attach the USCIS summons, writ of mandamus, and evidence as a compressed PDF.)
+- Save all tracking numbers as proof of service.
+
+Step 9:
+After all documents are delivered, file a Proof of Service with the court by returning to the clerk's office with delivery confirmations. Include email proof to USCIS as well.
+
+--------------------------------------------------------------------------------
+
+What happens next
+
+After filing, you can expect the court to make a decision within 20–60 days. This is based on general timelines and can vary.
+
+RESULT: 3 business days after serving all defendants, my case was approved. It works.
+UPDATE: 5 days after approval the card was produced and mailed.
+
+Motion to Dismiss: After your USCIS case is approved, you need to file a motion to dismiss with the court. You can do this by returning to the courthouse — you don't need to mail and serve all defendants; the court will do that for you.
+
+--------------------------------------------------------------------------------
+
+Additional Notes
+
+- For I-485 cases where I-130 and I-485 are pending together: you would need 2 plaintiffs — the U.S. citizen as petitioner and the non-U.S. citizen as applicant.
+- If your case is pending at the embassy after NVC: sue the embassy and its ambassador instead of USCIS.
+- For embassy cases, defendants are:
+  - U.S. Department of State
+  - Secretary of State
+  - Your specific embassy (e.g., "U.S. Embassy Mumbai")
+  - Ambassador of that embassy
+  - Attorney General
+  - Your local US Attorney
+  Mail to State Department: 2201 C Street NW, Washington, DC 20520; and your embassy address.
+- Always verify current names of defendants — government positions change after elections.
+
+--------------------------------------------------------------------------------
+
+Selected Comments
+
+u/Far_Classic_5146: After 2+ years of waiting and going through all the pre-required inquiries, I paid $4,500 for a lawyer to do my writ of mandamus. My standalone I-130 was approved within a month after the mandamus.
+
+u/Easy_Statistician173: Another success case here! Approved after 2 days submitted! You're awesome!
+
+u/SnooObjections6870: Another success. Filed on Monday. Approved today.
+
+u/MortgageFun9498: I have waited 7 years for a decision on my I-485 application. Your post encourages me to file WOM.
+
+u/Efficient-Scholar-61: After a lot of applicants filed WOM, USCIS has resorted to hitting back with unjustified "Requests for Additional Evidence" and the State Attorney will call or email asking you to drop your WOM. You have to respond to them quick and not drop the case if they tell you to — file motion to default.
+
+u/Key_Marketing1646: Filed the WOM and mailed the documents today. Thanks a ton OP! Will keep this thread posted on results.

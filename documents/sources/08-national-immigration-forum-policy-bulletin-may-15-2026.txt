@@ -1,0 +1,93 @@
+SOURCE: National Immigration Forum — Policy Bulletin May 15, 2026
+URL: https://forumtogether.org/article/policy-bulletin-friday-may-15-2026/
+
+================================================================================
+
+Policy Bulletin — Friday, May 15, 2026
+
+FEDERAL
+
+Senators Call for Dreamer Citizenship Pathway as DACA Delays and Deportations Continue
+
+Democratic senators from Arizona and California are urging Congress and the White House to establish a permanent citizenship path for Dreamers. DACA renewal processing times have extended significantly—from approximately 15 days in fiscal 2024 to 70 days between October 2025 and February 2026. Some recipients have lost employment during the wait period.
+
+Renewals are completely halted for recipients from 39 countries subject to travel restrictions, a policy never publicly announced. José Contreras, a Texas DACA holder, was deported to Honduras despite valid status, then allowed to return before being detained again by ICE. The case highlights program instability. DACA, created in 2012, lacks permanent legal status and requires renewal every two years. The Dream Act of 2025 would create a conditional path to residency and citizenship for up to 2.5 million Dreamers but has stalled in the Senate.
+
+Trump Administration Moves to Use Tax Data to Target Undocumented Immigrants
+
+The Trump administration is pressuring the IRS to restructure the Individual Taxpayer Identification Number system in ways that could force undocumented immigrants to disclose immigration status or abandon filing taxes. Officials are considering distinguishing ITIN codes for undocumented filers and potentially adding questions about unlawful presence on tax forms.
+
+This follows an April 7, 2025 memorandum between the IRS and ICE permitting immigration officers to request names, addresses, and tax data for individuals with final removal orders. Senior IRS officials resigned in response, and legal challenges were filed immediately. ICE arrested individuals shortly after tax day, alarming immigrant communities. A federal judge blocked further data transfers in November 2025, finding the agreement likely violated IRS privacy statutes, though the administration continues pursuing expanded scrutiny of immigrant employment tax filings.
+
+Undocumented immigrants paid approximately $90 billion in combined federal, state, and local taxes in 2023. Advocates warn that eroding tax confidentiality assurances could significantly reduce filing compliance and cost billions in federal revenue.
+
+David Venturella Named to Lead ICE as Administration Signals No Enforcement Shift
+
+Effective May 31, 2026, David Venturella will replace Todd Lyons as ICE acting director. Venturella previously served as a senior executive for GEO Group, a private contractor operating ICE detention facilities and supplying GPS monitors. As the new director, he inherits expanded resources through the One Big Beautiful Bill Act, including approximately 22,000 officers and agents (roughly double prior staffing) and increased detention capacity.
+
+DHS Secretary Markwayne Mullin stated his objective is reducing agency visibility in news coverage and conducting enforcement in a "more quiet way." However, White House border czar Tom Homan confirmed aggressive intentions, stating "mass deportations are coming." U.S. Border Patrol Chief Michael Banks resigned May 14.
+
+LEGAL
+
+Third Federal Appeals Court Rejects Administration's Mandatory Detention Policy
+
+The U.S. Court of Appeals for the Sixth Circuit became the third federal appeals court rejecting the administration's mandatory detention policy on May 11, ruling that immigrants residing in the United States for years cannot face detention without bond hearings solely based on entry method. The policy, formalized in a July 2025 ICE memorandum, classified deportation-targeted noncitizens as "applicants for admission," subjecting them to mandatory detention throughout removal proceedings.
+
+The Sixth Circuit joined the Second and Eleventh Circuits in opposition, while the Fifth and Eighth Circuits upheld the policy, and a Seventh Circuit panel deadlocked May 5. The deepening split indicates likely Supreme Court review, which the administration has signaled it will pursue.
+
+The Department of Justice defended the policy, arguing prior administrations failed using detention authority Congress granted in 1996. A Politico analysis found federal judges ruled against ICE detention practices in roughly 90 percent of decided cases, with approximately 425 judges opposing the policy and about 50 supporting it. ICE has responded by transferring detainees to new states to force additional legal proceedings, a practice courts have flagged as circumventing rulings.
+
+Record Number of Immigration Cases Closing Through Voluntary Departure as Enforcement Pressure Mounts
+
+Immigration judges issued more than 80,000 voluntary departure orders between January 2025 and March 2026—a 600 percent increase from approximately 11,400 during the final 15 months of the Biden administration, according to the Vera Institute of Justice.
+
+Monthly data shows sharper trends: voluntary departures surged from roughly 800 monthly at Biden administration's end to over 8,800 by February 2026, exceeding 9,000 in March 2026 alone. More than 70 percent of voluntary departure recipients were detained when requesting departure, with attorneys arguing numbers reflect coercion rather than genuine choice.
+
+A separate dynamic affects asylum seekers specifically. Reporters found more than 75,500 asylum cases received motions to terminate proceedings without hearings after an October 2025 Board of Immigration Appeals ruling required judges to address third-country removal before considering asylum eligibility. That ruling forced asylum seekers arguing they feared persecution in both home and third countries like Ecuador, Honduras, and Uganda. Approximately 12,300 people withdrew claims or agreed to voluntary departure.
+
+Federal Judge Finds ICE Noncompliant with Court Order Limiting Warrantless Arrests in Colorado
+
+A federal judge ruled May 12 that ICE "materially violated" a November 2025 preliminary injunction by continuing warrantless arrests without individualized flight risk or probable cause determinations. The ruling found none of 36 arrest reports met documentation standards, with officers "uniformly failing" compliance and showing limited understanding of requirements.
+
+The lawsuit alleged ICE indiscriminately arrested Latino individuals during mass enforcement operations to meet agency-wide quotas regardless of probable cause. The court ordered ICE to develop compliant training within 14 days and complete training for all warrantless arrest officers within 45 days, with ongoing compliance monitoring by plaintiffs' attorneys. This ruling reflects broader patterns of courts finding ICE constitutional violations across the country.
+
+STATE AND LOCAL
+
+Florida's "Alligator Alcatraz" Immigration Detention Facility to Close by June
+
+Florida's state-run immigration detention facility in the Everglades, known as "Alligator Alcatraz," is closing by June 2026. Vendors received formal notification May 12, with approximately 1,400 detainees transferring to other facilities in coming weeks. Governor Ron DeSantis confirmed federal and state officials discussed closure, driven primarily by cost considerations.
+
+The facility accumulated nearly $1 billion in operating expenses since opening July 2025, running at approximately $1 million daily, with approaching hurricane season adding timeline urgency. Opened with ceremony by President Trump and Governor DeSantis in July 2025, it was designed for 5,000 detainees in tents. More than 22,000 people passed through during its roughly 10 months of operation. The facility faced consistent condemnation from advocates, attorneys, and lawmakers regarding extreme heat, inadequate medical care, and severely restricted legal access.
+
+BILLS INTRODUCED AND CONSIDERED
+
+S. 4501 - BACK OFF Act
+Sponsored by Sen. John Cornyn (R-Texas). Would bar aliens from entering the U.S. for birth or remaining to "undermine sovereignty through birth tourism." Introduced 05/12/2026, referred to Senate Judiciary Committee.
+
+S. 4542
+Sponsored by Sen. John Cornyn (R-Texas). Would disqualify aliens from establishing good moral character, maintaining asylum eligibility, or retaining lawful permanent resident status for opposing the Constitution or supporting Sharia law. Introduced 05/14/2026, referred to Senate Judiciary Committee.
+
+S. 4546
+Sponsored by Sen. Tommy Tuberville (R-Alabama). Comprehensive immigration reform establishing national-interest standards, ending family-sponsored categories, revising moral character standards, eliminating diversity visas, revising public-charge rules, reforming employment-based immigration and H-1B visas, eliminating Optional Practical Training, revising asylum procedures, requiring employment verification, establishing unlawful presence penalties, and revising parole authority. Introduced 05/14/2026, referred to Senate Judiciary Committee.
+
+S. 4547
+Sponsored by Sen. Eric Schmitt (R-Missouri). Described by sponsor as expanding denaturalization authority and tightening naturalization integrity standards. Introduced 05/14/2026, referred to Senate Judiciary Committee.
+
+H.R. 8727 - No Illegal Captivity and Extensions Act of 2026 (NICE Act)
+Sponsored by Rep. Maxwell Frost (D-Florida). Would eliminate immigration detainer use by federal authorities. Introduced 05/11/2026, referred to House Judiciary Committee.
+
+H.R. 8756
+Sponsored by Rep. Barry Moore (R-Alabama). Would require aliens to disavow Sharia law and take Constitution upholding oaths. Introduced 05/12/2026, referred to House Judiciary Committee.
+
+H.R. 8805
+Sponsored by Rep. W. Gregory Steube (R-Florida). Would provide supplemental payments to federal personnel performing immigration enforcement operations. Introduced 05/13/2026, referred to Ways and Means and Oversight and Government Reform committees.
+
+H.R. 8814
+Sponsored by Rep. Daniel Goldman (D-New York). Would prohibit HUD from exchanging immigration status information. Introduced 05/14/2026, referred to House Financial Services Committee.
+
+H.R. 8827
+Sponsored by Rep. Andrew Ogles (R-Tennessee). House companion to S. 4546, mirroring comprehensive immigration restructuring. Introduced 05/14/2026, referred to Judiciary and Education and Workforce committees.
+
+LEGISLATIVE FLOOR CALENDAR
+
+The U.S. Senate is scheduled in session May 18-21. The U.S. House is scheduled May 11-22.

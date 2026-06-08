@@ -1,0 +1,92 @@
+SOURCE: r/DACA — "Hey y'all, I did it — I filed a Writ of Mandamus"
+URL: https://www.reddit.com/r/DACA/comments/1taqsru/hey_yall_i_did_it_i_filed_a_writ_of_mandamus/
+Posted by: u/VoluntaryMatriarchy
+
+================================================================================
+
+Hey y'all. I did it. I filed a writ of mandamus.
+
+I'm taking one for the team. I'll keep you posted on how things turn out. Ngl, it was kinda therapeutic. Typing out all my anger and frustrations like a blood thirsty litigator ready to show no mercy to USCIS.
+
+Because up until this point, our actions have essentially been communicating a "pretty please with sugar on top." But for the first time, I was like: "you're acting illegally, you need to stop and I will make you stop if I have to."
+
+--------------------------------------------------------------------------------
+
+What is a Writ of Mandamus (from comments)
+
+u/Questioner4lyfe2020:
+A writ of mandamus is basically a federal lawsuit filed against USCIS asking a judge to force the agency to make a decision on a long-delayed immigration case. It does NOT guarantee approval — it only forces USCIS to act on the case one way or another.
+
+In the DACA context, people usually consider filing one when:
+- Their renewal has been pending for many months
+- They're at risk of losing work authorization
+- Normal inquiries/expedites haven't worked
+
+Typical timeline: Many cases get movement within a few weeks to a few months after filing because USCIS has to respond in federal court.
+
+Typical cost: Usually several thousand dollars in legal fees (often anywhere from ~$3k–$10k+ depending on the attorney and complexity).
+
+Important:
+- A mandamus forces a decision, NOT an approval.
+- USCIS can still deny the case if there's an issue with eligibility.
+
+--------------------------------------------------------------------------------
+
+OP Details and Process (u/VoluntaryMatriarchy)
+
+Filing window: OP had been waiting over 150 days but fewer than 200 days at time of filing.
+
+Filed pro se (without a lawyer), avoiding thousands of dollars in litigation fees. Federal courts are somewhat more liberal with non-fatal procedural errors from pro se litigants (Haines v. Kerner, 404 U.S. 519 (1972)).
+
+Typical court costs: around $400. However, you can apply to have this waived if you qualify income- and asset-wise by filing an "In Forma Pauperis" (IFP) motion with your specific federal district court.
+
+If IFP is approved:
+- No upfront court fee
+- US Court Marshals will serve USCIS and named defendants (DHS Secretary [Mullin], USCIS Director [Edlow], Attorney General [Todd Blanche], and the specific US attorney office for your district court)
+- Can delay filing slightly while judge approves IFP
+
+If IFP is denied:
+- Pay the ~$400 court fee
+- Serve documents yourself via certified mail (~$10–$15 per defendant)
+- This path may actually be faster
+
+Defendants for a DACA renewal mandamus:
+- USCIS (Director)
+- DHS Secretary
+- Attorney General
+- Local US Attorney for your federal district
+
+Finding the right court: Immigration is a federal issue. You file in the US District Court with jurisdiction over you. Resource: https://en.wikipedia.org/wiki/List_of_United_States_district_and_territorial_courts
+
+Tips:
+- AI can help with complaint structure and research, but always cross-check — it can hallucinate.
+- Most federal courts have pro bono legal aid available. They won't represent you as plaintiff, but they can answer procedural questions.
+- Every person, regardless of citizenship status or financial means, has the right to seek justice through the court system.
+
+--------------------------------------------------------------------------------
+
+Selected Comments
+
+u/Questioner4lyfe2020 on filing volume:
+"And that's what bothers me: waiting 6 months, being out of a job for 2 months, making several phone calls and expedite requests — per their reasoning I should file for writ of mandamus, along with (what I'm sure is) a massive amount of people."
+
+u/Ricky4343:
+"It's very expensive and he or she is putting themselves in the spotlight filing a mandamus, but if they succeed then this would benefit all of us DACA greatly."
+
+u/Puzzled-Pound193:
+"I filled one out and it was good. I got a decision two weeks after."
+
+u/LordFlacko704:
+"No, it'd only benefit him — it's not a class action, it's individual."
+
+u/Pretend-Scar2266:
+"Attorney Charles Kuck based out of ATL said on his live this past week his firm is working on a lawsuit as well for this reason."
+
+u/andwhatshername:
+"I'm in talks with my lawyer about doing the same thing."
+
+u/Business_Hospital495:
+"I filed too."
+
+u/lash7233 (17 days after original post):
+"OP, any updates on your case since filing lawsuit?"

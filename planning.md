@@ -132,8 +132,21 @@ If cost were not a contrain, i would run a much larger embeddings model that can
 
 **Milestone 3 — Ingestion and chunking:**
 
+- **AI tool:** Claude
+- **Input:** The Chunking Strategy section of this planning.md (chunk size 2048, overlap 512) plus the list of 19 source URLs/file paths from the Documents table
+- **Expected output:** A `ingest.py` script with a `load_documents()` function that fetches/reads each source and a `chunk_text(text, chunk_size=2048, overlap=512)` function that returns a list of text chunks with source metadata attached
+- **Verification:** Run the script against 2–3 sources and print chunk count + first/last 100 chars of each chunk to confirm size and overlap are correct; confirm no chunk drops the source URL from its metadata
 
 **Milestone 4 — Embedding and retrieval:**
 
+- **AI tool:** Claude
+- **Input:** The Retrieval Approach section (model: all-MiniLM-L6-v2, top-k: 3) and the output chunks + metadata schema from Milestone 3
+- **Expected output:** An `embed_and_store.py` script that embeds all chunks with `sentence-transformers` and persists them to a ChromaDB collection, plus a `retrieve(query, k=3)` function that returns the top-3 chunks with their source URLs
+- **Verification:** Run the 6 evaluation questions from the Evaluation Plan and confirm that at least one returned chunk per question contains text clearly relevant to the expected answer; spot-check that source URLs are preserved in results
 
 **Milestone 5 — Generation and interface:**
+
+- **AI tool:** Claude
+- **Input:** The Evaluation Plan section (6 test Q&A pairs), the `retrieve()` function signature from Milestone 4, and the disclaimer requirement from question 5 (no legal advice)
+- **Expected output:** A `rag.py` script with an `answer(query)` function that calls `retrieve()`, builds a prompt with the retrieved chunks as context, calls the Claude API, and returns a response; plus a minimal CLI loop so the guide can be queried interactively
+- **Verification:** Run all 6 evaluation questions through the CLI and manually score each response against the expected answers in the Evaluation Plan; confirm question 5 always triggers the legal-advice disclaimer regardless of phrasing
